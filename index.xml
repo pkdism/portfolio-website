@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi! I&#39;m Pawan Dwivedi on Pawan Dwivedi</title>
-    <link>http://www.pawandwivedi.ml/</link>
+    <link>https://pkdism.github.io/portfolio-website/</link>
     <description>Recent content in Hi! I&#39;m Pawan Dwivedi on Pawan Dwivedi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Mar 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="http://www.pawandwivedi.ml/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pkdism.github.io/portfolio-website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MLwords</title>
-      <link>http://www.pawandwivedi.ml/post/mlwords/</link>
+      <link>https://pkdism.github.io/portfolio-website/post/mlwords/</link>
       <pubDate>Mon, 30 Mar 2020 10:58:08 -0400</pubDate>
       
-      <guid>http://www.pawandwivedi.ml/post/mlwords/</guid>
+      <guid>https://pkdism.github.io/portfolio-website/post/mlwords/</guid>
       <description>Includes implementation of following algorithms from scratch:
  Linear Regression Logistic Regression Decision Trees Random Forest Naive Bayes K-Nearest Neighbours  The package also includes functions to compute model performance metrics:
  MSE RMSE AUC ROC Confusion Matrix Precision, Recall F1 score Accuracy    Link to GitHub Repository</description>
@@ -24,19 +24,19 @@
     
     <item>
       <title>Microphone Search</title>
-      <link>http://www.pawandwivedi.ml/post/speech-to-text/</link>
+      <link>https://pkdism.github.io/portfolio-website/post/speech-to-text/</link>
       <pubDate>Mon, 18 Mar 2019 11:00:59 -0400</pubDate>
       
-      <guid>http://www.pawandwivedi.ml/post/speech-to-text/</guid>
+      <guid>https://pkdism.github.io/portfolio-website/post/speech-to-text/</guid>
       <description>A tool to search and open google search results from terminal using built-in Microphone of your pc.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.pawandwivedi.ml/contact/</link>
+      <link>https://pkdism.github.io/portfolio-website/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.pawandwivedi.ml/contact/</guid>
+      <guid>https://pkdism.github.io/portfolio-website/contact/</guid>
       <description>Find me on these social media platforms.
    Platform URL     Linkedin: https://www.linkedin.com/in/pawan-dwivedi   GitHub: https://github.com/pkdism   Medium: https://medium.com/@pawandwivedi   Stackoverflow: https://stackoverflow.com/users/4134949/penguin    Or directly reach out to me through this form
 Your Name Email Address An email address is required.  Message   </description>
